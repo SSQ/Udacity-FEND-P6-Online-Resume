@@ -1,0 +1,6 @@
+later:
+1`to locate my living and working position with google map.
+2`https://getbootstrap.com/components/#navbar
+3`https://discussions.udacity.com/t/polymer-basics-beginner/26758/1
+4`watch the webcast.
+5~https://developers.google.com/maps/documentation/javascript/infowindows
